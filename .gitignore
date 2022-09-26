@@ -1,9 +1,5 @@
 # Folder for uploaded CSV files
 uploads/
-# DB config file
-db.php
-# SQL file for creating database
-trains.sql
 # PHP error log file
 error_log
 # Misc Files
